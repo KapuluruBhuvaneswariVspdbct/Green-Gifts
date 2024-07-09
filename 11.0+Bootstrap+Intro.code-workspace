@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../11.0+Bootstrap+Intro"
+		},
+		{
+			"path": "../../11.2+Bootstrap+Components"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "11.3+TinDog+Project"
+	}
+}
